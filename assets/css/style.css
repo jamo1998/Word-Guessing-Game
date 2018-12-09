@@ -1,0 +1,18 @@
+.jumbotron {
+    text-align: center;
+}
+
+.container {
+    border: 3px dotted black;
+    font-size: 24px;
+
+}
+
+.col-lg-6 {
+    border: 3px dotted black;
+    
+}
+
+#answer {
+    font-size: 50px;
+}
